@@ -15,8 +15,6 @@ connectDB()
     console.log("MONGO db connection Failed !!! ", err);
   });
 
-
-  
 /*
 // 1. First Approach
 import express from "express";
